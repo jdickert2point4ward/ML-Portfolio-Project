@@ -13,6 +13,8 @@ This project develops a machine learning prototype to predict high-risk safety z
 
 ## Dataset
 - **Source**: Chicago Crime Dataset (City of Chicago Data Portal)
++  - **URL**: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2
++  - **Selected Subset**: 2020 crime data (~200,000 rows) for prototyping; full dataset (2001–present, 7.9M+ rows) available for future scaling.
 - **Problem**: Binary classification (high-risk vs. low-risk zones)
 - **Details**: Historical crime records with timestamps, locations (latitude/longitude), and crime types. Subset to a manageable size (e.g., 1 year or 10,000 rows) for prototyping.
 
