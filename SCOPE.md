@@ -5,6 +5,7 @@ This project develops a machine learning prototype to predict high-risk safety z
 
 ## Goals
 - **Primary**: Build an ML model to classify locations as "high-risk" or "low-risk" for safety incidents.
++  - **ML Problem**: Predict whether a Chicago location is high-risk for crime using spatial (latitude, longitude) and temporal (time of day, day of week) features, solved via binary classification.
 - **Secondary**:
   - Demonstrate end-to-end ML skills: ETL, feature engineering, modeling, and pipeline development.
   - Visualize risk predictions for clear communication.
