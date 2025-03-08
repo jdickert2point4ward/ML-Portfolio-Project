@@ -3,3 +3,4 @@ train_engineered.csv
 val_engineered.csv
 test_engineered.csv
 chicago_crimes_latest_transformed.csv
+safety_risk_pipeline.pk1
